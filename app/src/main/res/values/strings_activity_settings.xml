@@ -1,0 +1,12 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+   <string name="pref_header_general">General</string>
+
+    <string name="pref_key_location_key" translatable="false">location</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_default" translatable="false">38016</string>
+
+
+
+</resources>
